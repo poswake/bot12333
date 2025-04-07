@@ -1,0 +1,169 @@
+[
+  {
+    "id": "1742995675934",
+    "type": "Training",
+    "date": "03/26/25",
+    "time": "6:30 PM",
+    "timestamp": 1743013800000,
+    "notes": "First ever training that is scheduled by Orion! Full attendance = 8 points.",
+    "createdBy": "1351953206929920023",
+    "createdAt": "2025-03-26T13:27:55.934Z",
+    "attendees": [
+      "1286764456256471095"
+    ]
+  },
+  {
+    "id": "1743361455009",
+    "type": "Training",
+    "date": "03/30/25",
+    "time": "07:30 PM",
+    "timestamp": 1743363000000,
+    "notes": "Classic Training. 8 points for full attendance.",
+    "createdBy": "1351953206929920023",
+    "createdAt": "2025-03-30T19:04:15.009Z",
+    "attendees": [
+      "1321947312687415396"
+    ]
+  },
+  {
+    "id": "1743367969793",
+    "type": "Training",
+    "date": "03/30/25",
+    "time": "04:30 PM",
+    "timestamp": 1743352200000,
+    "notes": "No additional notes.",
+    "createdBy": "1321947312687415396",
+    "createdAt": "2025-03-30T20:52:49.793Z",
+    "attendees": []
+  },
+  {
+    "id": "1743368077338",
+    "type": "Training",
+    "date": "03/30/25",
+    "time": "04:30 PM",
+    "timestamp": 1743352200000,
+    "notes": "No additional notes.",
+    "createdBy": "1321947312687415396",
+    "createdAt": "2025-03-30T20:54:37.338Z",
+    "attendees": [
+      "628698650976976946"
+    ]
+  },
+  {
+    "id": "1743368407793",
+    "type": "Training",
+    "date": "03/30/25",
+    "time": "04:30 PM",
+    "timestamp": 1743352200000,
+    "notes": "No additional notes.",
+    "createdBy": "1321947312687415396",
+    "createdAt": "2025-03-30T21:00:07.793Z",
+    "attendees": []
+  },
+  {
+    "id": "1743368560887",
+    "type": "Training",
+    "date": "03/30/25",
+    "time": "09:30 PM",
+    "timestamp": 1743370200000,
+    "notes": "Event will be hosted by OcuPenguin. 8 ppoints for full attendance!",
+    "createdBy": "1351953206929920023",
+    "createdAt": "2025-03-30T21:02:40.887Z",
+    "attendees": [
+      "628698650976976946",
+      "1351953206929920023"
+    ]
+  },
+  {
+    "id": "1743380610912",
+    "type": "Training",
+    "date": "04/05/25",
+    "time": "3:00 PM",
+    "timestamp": 1743865200000,
+    "notes": "Focusing on aim and accuracy and will be in PBSTTF",
+    "createdBy": "1321947312687415396",
+    "createdAt": "2025-03-31T00:23:30.912Z",
+    "attendees": [
+      "628698650976976946"
+    ]
+  },
+  {
+    "id": "1743460299138",
+    "type": "Training",
+    "date": "03/31/25",
+    "time": "11:30 PM",
+    "timestamp": 1743463800000,
+    "notes": "Will mostly be obbies and some fighting with a possibly 8 points to be awarded at PBSTTF",
+    "createdBy": "1321947312687415396",
+    "createdAt": "2025-03-31T22:31:39.138Z",
+    "attendees": [
+      "628698650976976946"
+    ]
+  },
+  {
+    "id": "1743467356256",
+    "type": "Assault",
+    "date": "04/01/25",
+    "time": "07:00 PM",
+    "timestamp": 1743534000000,
+    "notes": "First ever test Assault. Probably will take place in PBCC as ERF currently has no actual events than normal disasters.",
+    "createdBy": "1351953206929920023",
+    "createdAt": "2025-04-01T00:29:16.256Z",
+    "attendees": []
+  },
+  {
+    "id": "1743626651592",
+    "type": "Training",
+    "date": "04/04/25",
+    "time": "09:00 PM",
+    "timestamp": 1743800400000,
+    "notes": "No additional notes.",
+    "createdBy": "1321947312687415396",
+    "createdAt": "2025-04-02T20:44:11.592Z",
+    "attendees": []
+  },
+  {
+    "id": "1743626676358",
+    "type": "Training",
+    "date": "04/03/25",
+    "time": "09:00 PM",
+    "timestamp": 1743714000000,
+    "notes": "No additional notes.",
+    "createdBy": "1321947312687415396",
+    "createdAt": "2025-04-02T20:44:36.358Z",
+    "attendees": []
+  },
+  {
+    "id": "1743629266861",
+    "type": "Training",
+    "date": "04/03/25",
+    "time": "09:00 PM",
+    "timestamp": 1743714000000,
+    "notes": "Mostly going to be combat and pvp, will take place is both ERF and PBSTTF",
+    "createdBy": "1321947312687415396",
+    "createdAt": "2025-04-02T21:27:46.861Z",
+    "attendees": []
+  },
+  {
+    "id": "1743876029437",
+    "type": "Training",
+    "date": "04/08/25",
+    "time": "09:00 PM",
+    "timestamp": 1744146000000,
+    "notes": "Primarly on Combat that will be in both ERF and PBSTTF",
+    "createdBy": "1321947312687415396",
+    "createdAt": "2025-04-05T18:00:29.437Z",
+    "attendees": []
+  },
+  {
+    "id": "1743888772955",
+    "type": "Training",
+    "date": "04/09/25",
+    "time": "09:00 PM",
+    "timestamp": 1744232400000,
+    "notes": "This training is going to be a joint training hosting by <@1321947312687415396>  and <@1286764456256471095> , briefing in ERF and the training will be in PBSTTF!",
+    "createdBy": "1321947312687415396",
+    "createdAt": "2025-04-05T21:32:52.955Z",
+    "attendees": []
+  }
+]

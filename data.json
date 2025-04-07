@@ -1,0 +1,367 @@
+{
+  "users": {
+    "1286764456256471095": {
+      "points": 0,
+      "history": [
+        {
+          "userId": "1286764456256471095",
+          "moderatorId": "1286764456256471095",
+          "points": 20000,
+          "reason": "i said so",
+          "timestamp": 1742951525103
+        },
+        {
+          "userId": "1286764456256471095",
+          "moderatorId": "1286764456256471095",
+          "points": -100,
+          "reason": "i said so x2",
+          "timestamp": 1742951568305
+        },
+        {
+          "userId": "1286764456256471095",
+          "moderatorId": "1286764456256471095",
+          "points": 1,
+          "reason": "sigma",
+          "timestamp": 1742992388847
+        },
+        {
+          "userId": "1286764456256471095",
+          "moderatorId": "1286764456256471095",
+          "points": -19901,
+          "reason": "not worthy, these were test points",
+          "timestamp": 1743366228087
+        }
+      ]
+    },
+    "799759366134693918": {
+      "points": 44,
+      "history": [
+        {
+          "userId": "799759366134693918",
+          "moderatorId": "1286764456256471095",
+          "points": 2,
+          "reason": "suggested me to add logo",
+          "timestamp": 1742952433510
+        },
+        {
+          "userId": "799759366134693918",
+          "moderatorId": "799759366134693918",
+          "points": 1000000000000000,
+          "reason": "because i am the owner and yes this is a lot of points",
+          "timestamp": 1742953533926
+        },
+        {
+          "userId": "799759366134693918",
+          "moderatorId": "1286764456256471095",
+          "points": -1000000000000002,
+          "reason": "thats not fair for u to have that many",
+          "timestamp": 1742992379756
+        },
+        {
+          "userId": "799759366134693918",
+          "moderatorId": "1351953206929920023",
+          "points": 18,
+          "reason": "Database Migration",
+          "timestamp": 1742995081002
+        },
+        {
+          "userId": "799759366134693918",
+          "moderatorId": "1321947312687415396",
+          "points": 9,
+          "reason": "Attended full training hosted by OcuPenguin",
+          "timestamp": 1743352424222
+        },
+        {
+          "userId": "799759366134693918",
+          "moderatorId": "1286764456256471095",
+          "points": 9,
+          "reason": "training",
+          "timestamp": 1743813404908
+        },
+        {
+          "userId": "799759366134693918",
+          "moderatorId": "1321947312687415396",
+          "points": 8,
+          "reason": "Fully attended a training hosted by OcuPenguin",
+          "timestamp": 1743875866696
+        }
+      ]
+    },
+    "712781753294782475": {
+      "points": 28,
+      "history": [
+        {
+          "userId": "712781753294782475",
+          "moderatorId": "1351953206929920023",
+          "points": 18,
+          "reason": "Database Migration",
+          "timestamp": 1742995115814
+        },
+        {
+          "userId": "712781753294782475",
+          "moderatorId": "1321947312687415396",
+          "points": 10,
+          "reason": "Fully attended a training hosted by OcuPenguin, along with 2 bonus points",
+          "timestamp": 1743875898263
+        }
+      ]
+    },
+    "628698650976976946": {
+      "points": 57,
+      "history": [
+        {
+          "userId": "628698650976976946",
+          "moderatorId": "1351953206929920023",
+          "points": 15,
+          "reason": "Database Migration",
+          "timestamp": 1742995141039
+        },
+        {
+          "userId": "628698650976976946",
+          "moderatorId": "1321947312687415396",
+          "points": 9,
+          "reason": "Attended full training hosted by OcuPenguin",
+          "timestamp": 1743352400126
+        },
+        {
+          "userId": "628698650976976946",
+          "moderatorId": "1321947312687415396",
+          "points": 8,
+          "reason": "Fully attended a training hosted by OcuPenguin",
+          "timestamp": 1743372278940
+        },
+        {
+          "userId": "628698650976976946",
+          "moderatorId": "1321947312687415396",
+          "points": 9,
+          "reason": "Fully attended a training hosted by OcuPenguin, along with a free bonus",
+          "timestamp": 1743465957967
+        },
+        {
+          "userId": "628698650976976946",
+          "moderatorId": "1286764456256471095",
+          "points": 8,
+          "reason": "training",
+          "timestamp": 1743813752173
+        },
+        {
+          "userId": "628698650976976946",
+          "moderatorId": "1321947312687415396",
+          "points": 8,
+          "reason": "Fully attended a training hosted by OcuPenguin",
+          "timestamp": 1743875847595
+        }
+      ]
+    },
+    "1321947312687415396": {
+      "points": 9,
+      "history": [
+        {
+          "userId": "1321947312687415396",
+          "moderatorId": "1351953206929920023",
+          "points": 8,
+          "reason": "Database Migration",
+          "timestamp": 1742995175438
+        },
+        {
+          "userId": "1321947312687415396",
+          "moderatorId": "1286764456256471095",
+          "points": 1,
+          "reason": "Bonus for event.",
+          "timestamp": 1743032049256
+        }
+      ]
+    },
+    "777884784927834122": {
+      "points": 4,
+      "history": [
+        {
+          "userId": "777884784927834122",
+          "moderatorId": "1351953206929920023",
+          "points": 4,
+          "reason": "Database Migration",
+          "timestamp": 1742995217737
+        }
+      ]
+    },
+    "609667801631948800": {
+      "points": 1,
+      "history": [
+        {
+          "userId": "609667801631948800",
+          "moderatorId": "1351953206929920023",
+          "points": 1,
+          "reason": "Database Migration",
+          "timestamp": 1742995243242
+        }
+      ]
+    },
+    "1351953206929920023": {
+      "points": 0,
+      "history": []
+    }
+  },
+  "transactions": [
+    {
+      "userId": "1286764456256471095",
+      "moderatorId": "1286764456256471095",
+      "points": 20000,
+      "reason": "i said so",
+      "timestamp": 1742951525103
+    },
+    {
+      "userId": "1286764456256471095",
+      "moderatorId": "1286764456256471095",
+      "points": -100,
+      "reason": "i said so x2",
+      "timestamp": 1742951568305
+    },
+    {
+      "userId": "799759366134693918",
+      "moderatorId": "1286764456256471095",
+      "points": 2,
+      "reason": "suggested me to add logo",
+      "timestamp": 1742952433510
+    },
+    {
+      "userId": "799759366134693918",
+      "moderatorId": "799759366134693918",
+      "points": 1000000000000000,
+      "reason": "because i am the owner and yes this is a lot of points",
+      "timestamp": 1742953533926
+    },
+    {
+      "userId": "799759366134693918",
+      "moderatorId": "1286764456256471095",
+      "points": -1000000000000002,
+      "reason": "thats not fair for u to have that many",
+      "timestamp": 1742992379756
+    },
+    {
+      "userId": "1286764456256471095",
+      "moderatorId": "1286764456256471095",
+      "points": 1,
+      "reason": "sigma",
+      "timestamp": 1742992388847
+    },
+    {
+      "userId": "799759366134693918",
+      "moderatorId": "1351953206929920023",
+      "points": 18,
+      "reason": "Database Migration",
+      "timestamp": 1742995081002
+    },
+    {
+      "userId": "712781753294782475",
+      "moderatorId": "1351953206929920023",
+      "points": 18,
+      "reason": "Database Migration",
+      "timestamp": 1742995115814
+    },
+    {
+      "userId": "628698650976976946",
+      "moderatorId": "1351953206929920023",
+      "points": 15,
+      "reason": "Database Migration",
+      "timestamp": 1742995141039
+    },
+    {
+      "userId": "1321947312687415396",
+      "moderatorId": "1351953206929920023",
+      "points": 8,
+      "reason": "Database Migration",
+      "timestamp": 1742995175438
+    },
+    {
+      "userId": "777884784927834122",
+      "moderatorId": "1351953206929920023",
+      "points": 4,
+      "reason": "Database Migration",
+      "timestamp": 1742995217737
+    },
+    {
+      "userId": "609667801631948800",
+      "moderatorId": "1351953206929920023",
+      "points": 1,
+      "reason": "Database Migration",
+      "timestamp": 1742995243242
+    },
+    {
+      "userId": "1321947312687415396",
+      "moderatorId": "1286764456256471095",
+      "points": 1,
+      "reason": "Bonus for event.",
+      "timestamp": 1743032049256
+    },
+    {
+      "userId": "628698650976976946",
+      "moderatorId": "1321947312687415396",
+      "points": 9,
+      "reason": "Attended full training hosted by OcuPenguin",
+      "timestamp": 1743352400126
+    },
+    {
+      "userId": "799759366134693918",
+      "moderatorId": "1321947312687415396",
+      "points": 9,
+      "reason": "Attended full training hosted by OcuPenguin",
+      "timestamp": 1743352424222
+    },
+    {
+      "userId": "1286764456256471095",
+      "moderatorId": "1286764456256471095",
+      "points": -19901,
+      "reason": "not worthy, these were test points",
+      "timestamp": 1743366228087
+    },
+    {
+      "userId": "628698650976976946",
+      "moderatorId": "1321947312687415396",
+      "points": 8,
+      "reason": "Fully attended a training hosted by OcuPenguin",
+      "timestamp": 1743372278940
+    },
+    {
+      "userId": "628698650976976946",
+      "moderatorId": "1321947312687415396",
+      "points": 9,
+      "reason": "Fully attended a training hosted by OcuPenguin, along with a free bonus",
+      "timestamp": 1743465957967
+    },
+    {
+      "userId": "799759366134693918",
+      "moderatorId": "1286764456256471095",
+      "points": 9,
+      "reason": "training",
+      "timestamp": 1743813404908
+    },
+    {
+      "userId": "628698650976976946",
+      "moderatorId": "1286764456256471095",
+      "points": 8,
+      "reason": "training",
+      "timestamp": 1743813752173
+    },
+    {
+      "userId": "628698650976976946",
+      "moderatorId": "1321947312687415396",
+      "points": 8,
+      "reason": "Fully attended a training hosted by OcuPenguin",
+      "timestamp": 1743875847595
+    },
+    {
+      "userId": "799759366134693918",
+      "moderatorId": "1321947312687415396",
+      "points": 8,
+      "reason": "Fully attended a training hosted by OcuPenguin",
+      "timestamp": 1743875866696
+    },
+    {
+      "userId": "712781753294782475",
+      "moderatorId": "1321947312687415396",
+      "points": 10,
+      "reason": "Fully attended a training hosted by OcuPenguin, along with 2 bonus points",
+      "timestamp": 1743875898263
+    }
+  ]
+}
